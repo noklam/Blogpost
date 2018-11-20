@@ -1,2 +1,1 @@
-# Blogpost
-Blogpost
+# Repo for written or unwritten materials
